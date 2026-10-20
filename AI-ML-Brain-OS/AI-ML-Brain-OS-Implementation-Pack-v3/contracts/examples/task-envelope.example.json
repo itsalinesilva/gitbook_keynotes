@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "run_example_001",
+  "correlation_id": "corr_example_001",
+  "actor_id": "research_lead",
+  "created_at": "2026-10-19T12:00:00Z",
+  "objective": "Mapear mudanças recentes em padrões de orquestração de agentes.",
+  "context": "Pesquisa técnica para atualização do manual interno.",
+  "acceptance_criteria": [
+    "Priorizar documentação primária",
+    "Separar fatos de inferências",
+    "Incluir data de verificação e limitações"
+  ],
+  "risk_class": "moderate",
+  "constraints": {
+    "deadline": null,
+    "max_tool_calls": 30,
+    "max_cost_usd": 10.0,
+    "allowed_domains": [
+      "developers.openai.com",
+      "docs.cloud.google.com"
+    ],
+    "data_classification": "public"
+  },
+  "requested_artifacts": [
+    "research_dossier",
+    "source_register"
+  ],
+  "human_approval_required": false
+}

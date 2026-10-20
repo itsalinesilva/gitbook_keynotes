@@ -1,0 +1,17 @@
+source_id: "SRC-0001"
+title: ""
+canonical_url: ""
+publisher: ""
+source_type: "primary|standard|paper|documentation|journalism|analysis|community"
+author_or_owner: ""
+published_at: ""
+last_verified_at: ""
+accessed_at: ""
+claims_supported: []
+coverage: {domains: [], geography: [], languages: []}
+reliability_notes: ""
+bias_or_conflict_notes: ""
+license_or_terms: ""
+access_method: "web|api|rss|manual|connector"
+status: "active|review|deprecated|blocked"
+review_interval_days: 90

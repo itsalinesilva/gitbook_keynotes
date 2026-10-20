@@ -1,0 +1,23 @@
+# Tool Contract --- template
+
+-   Tool ID:
+-   Nome:
+-   Versão:
+-   Owner:
+-   Propósito:
+-   Endpoint/handler:
+-   Schema de entrada:
+-   Schema de saída:
+-   Autenticação:
+-   Autorização:
+-   Efeitos colaterais:
+-   Idempotência:
+-   Timeout:
+-   Retry policy:
+-   Rate limits:
+-   Dados sensíveis:
+-   Erros tipados:
+-   Logging/redaction:
+-   Testes:
+-   Aprovação humana:
+-   Runbook:

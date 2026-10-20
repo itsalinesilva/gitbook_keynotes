@@ -1,0 +1,4 @@
+risk_id,asset_or_process,threat_or_failure,likelihood,impact,detectability,owner,mitigation,evidence,status,review_date
+R-001,Retrieval,Indirect prompt injection,medium,high,medium,security_owner,Untrusted-content isolation and tool allowlist,red-team report,open,
+R-002,Memory,Unreviewed policy drift,medium,high,low,knowledge_owner,Versioned proposals with approval,change log,open,
+R-003,Agent runtime,Cost runaway,medium,medium,high,platform_owner,Step/token/time budgets and alerts,load test,open,
